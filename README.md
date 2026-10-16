@@ -103,4 +103,4 @@ typedef struct s_list
 ### Use of AI
 
 - AI was used to help draft the structure and wording of this `README.md`.
-- AI was only used to help with explanations of concepts.
+- AI was used to help with explanations of concepts.
